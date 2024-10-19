@@ -1,0 +1,6 @@
+Independent Test Results:
+Overall Accuracy = 0.91239
+Precision = 0.89662  
+Sensivity/Recall/TPR = 0.95636
+F1 Score = 0.92553
+MCC = 0.82194
